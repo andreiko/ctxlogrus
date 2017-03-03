@@ -1,4 +1,4 @@
-package ctxlog
+package ctxlogrus
 
 import (
 	"context"
